@@ -4,7 +4,9 @@ I’m a DevOps engineer on a journey to master Cloud Infrastructure and Automati
 <br>🌟 A Little About Me<br><br> 🚀 Actively Exploring: Advanced Kubernetes techniques, IaC with Terraform and Ansible<br>    🤝 Looking to Collaborate: If it’s about DevOps tools or Cloud-Native projects, count me in!<br>    ⚡ Fun Fact: When I’m not in “automation mode,” you’ll find me experimenting with new tech stacks, reading up on the latest in DevOps, or brainstorming solutions for fun personal projects.<br>
 
 ### 🔗 Quick Links
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-brightgreen)](https://mudassirali.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-brightgreen)](https://mudassirali.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-mudassir45ali%40outlook.com-blue)](mailto:mudassir45ali@outlook.com)
 
 
 ## 🌐 Socials:
